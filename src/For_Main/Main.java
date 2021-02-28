@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 
-//8537ан7дрей к_"№;;)2345о12нон23;"!ен;"2134ко
+//8537ан7дрей к_"№;;)2345о12нон23;"!ен;"2134ко -> Андрей Кононенко
 public class Main {
     public static void main(String[] args) {
         String FullName = "";
